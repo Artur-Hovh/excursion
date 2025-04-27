@@ -25,6 +25,12 @@ body {
     color: gray;
 }
 
+.header--sub-2 {
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+}
+
 /* LINKS */
 
 .link--cta {
